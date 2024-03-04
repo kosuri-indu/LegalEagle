@@ -11,7 +11,7 @@ At LegalEagle, we believe that legal knowledge should be accessible to everyone.
 - Legal News: Stay updated with the latest legal news and developments.
 - Legal Glossary: Understand legal jargon with our glossary of terms.
 - User-friendly Interface: Navigate the platform easily with our intuitive design.
-- 
+  
 ## Functionality
 
 To get started with LegalEagle on your system, follow these simple steps:
